@@ -46,7 +46,7 @@ Five decisions follow from that.
 ## Quickstart
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/redmi50/kpi-anomaly-dashboard.git
 cd kpi-anomaly-dashboard
 python -m venv .venv
 source .venv/bin/activate
